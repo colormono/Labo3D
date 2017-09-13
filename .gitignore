@@ -1,0 +1,28 @@
+# Hidden folders
+.*/
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node
+/node_modules
+/node_modules/*
+
+# Bower
+/bower_components
+/bower_components/*
+/src/bower_components
+/src/bower_components/*
+
+# Sass
+.sass-cache/
+*.css.map
+
+# Ignore specific folders
+/resources
+/dist
+
+# Wordpress
